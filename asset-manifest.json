@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bharatTechproject/static/css/main.bfc90459.css",
+    "main.js": "/bharatTechproject/static/js/main.89fa65bd.js",
+    "static/media/signup.png": "/bharatTechproject/static/media/signup.b431d919de01b6515dd6.png",
+    "static/media/login.png": "/bharatTechproject/static/media/login.4d877a447365e5137b67.png",
+    "static/media/frame.png": "/bharatTechproject/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/Logo.svg": "/bharatTechproject/static/media/Logo.fd896773ef070a122541fd8722efa10f.svg",
+    "index.html": "/bharatTechproject/index.html",
+    "main.bfc90459.css.map": "/bharatTechproject/static/css/main.bfc90459.css.map",
+    "main.89fa65bd.js.map": "/bharatTechproject/static/js/main.89fa65bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfc90459.css",
+    "static/js/main.89fa65bd.js"
+  ]
+}
